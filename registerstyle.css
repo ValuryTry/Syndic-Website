@@ -1,0 +1,21 @@
+header{
+    background-color: black;
+    text-align: center;
+    color: white;
+    border: black 1px solid;
+}
+.form{
+    display: grid;
+    place-items: center;
+}
+form{
+    margin-top: 30vh;
+    display: grid;
+    padding-inline: 100px;
+}
+label{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+}
